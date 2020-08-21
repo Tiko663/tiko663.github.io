@@ -1,5 +1,7 @@
 ## Feliz cumpleaños Sara!
 
+Vooraleer ik verder ga, moet ik wel vragen of ge de titel kunt lezen... want [¿Habla Spaans?](https://hablaspaans.be) 🇪🇸. Zoniet, kan ik het even goed in het Frans doen 🇫🇷🥖. Maar Sara, 22 jaar, dat is al een hele boterham 🍞. Ik hoop dat het verrassingsfeestje nog steeds een verrassing was en natuurlijk dat ge er van gaat/hebt genieten/genoten 🥳. 
+
 You can use the [editor on GitHub](https://github.com/Tiko663/tiko663.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
